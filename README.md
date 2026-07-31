@@ -104,19 +104,21 @@ Me chamo Alan Pascoal, tenho 24 anos e moro em Itaquaquecetuba/SP. Cursando Gest
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <p align="center">
-  <a href="https://github.com/stats-organization/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       height="180" 
       alt="Estatísticas do GitHub do Alan" 
-      src="https://github-stats-extended.vercel.app/api?username=Filltiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats-six-liart-81.vercel.app/api?username=Filltiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
     />
   </a>
-  <a href="https://github.com/stats-organization/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       height="180" 
       alt="Linguagens mais utilizadas pelo Alan" 
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Filltiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&locale=pt-br" 
+      src="https://github-readme-stats-six-liart-81.vercel.app/api/top-langs/?username=Filltiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&count_private=true&locale=pt-br" 
     />
   </a>
 </p>
