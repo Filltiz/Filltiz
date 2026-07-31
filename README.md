@@ -104,7 +104,6 @@ Me chamo Alan Pascoal, tenho 24 anos e moro em Itaquaquecetuba/SP. Cursando Gest
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
