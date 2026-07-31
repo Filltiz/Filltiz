@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Python & Gestor de TI`**
 
-Me chamo Alan Pascoal, tenho 24 anos e moro em Itaquaquecetuba/SP. Cursando Gestão da Tecnologia da Informação na FATEC Itaquaquecetuba. Atuo no desenvolvimento backend com Python (Flask/FastAPI), APIs RESTful, modelagem de banco de dados (SQLite), testes automatizados (Pytest) e automação de processos/IA. Busco unir engenharia de software e governança para a solução de problemas de negócios.
+Me chamo Alan Pascoal, tenho 24 anos e moro em Itaquaquecetuba/SP. Graduado em  Gestão da Tecnologia da Informação na FATEC Itaquaquecetuba. Atuo no desenvolvimento backend com Python (Flask/FastAPI), APIs RESTful, modelagem de banco de dados (SQLite), testes automatizados (Pytest) e automação de processos/IA. Busco unir engenharia de software e governança para a solução de problemas de negócios.
 
 <p align="left">
     <a href="https://github.com/Filltiz?tab=repositories&sort=stargazers">
